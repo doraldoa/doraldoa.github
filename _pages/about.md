@@ -6,7 +6,7 @@ subtitle: <a href='mailto:lzj21@mails.tsinghua.edu.cn'>lzj21@mails.tsinghua.edu.
 
 profile:
   align: right
-  image: Portrait_Low.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Tsignhua University</p>
