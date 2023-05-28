@@ -1,34 +1,55 @@
-- title: General Information
+- title: Curriculum Vitae of Chih-Chin
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Chih-Chin Liu
+    - name: Email
+      value: lzj21@mails.tsinghua.edu.cn
+    - name: Address
+      value: Lee Shau Kee Science and Technology Building, Tsinghua University, Beijing, China.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master in science on mechanical engineering
+      institution: Tsinghua University, Beijing, China
+      year: 2021-Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - The top 2 University in China (U.S. News Global Ranking 23)
+        - Lab of Precision Equipment and Control, Department of Mechanical Engineering
+        - GPA 3.73/4.0
+        - title: Research Field
+          contents: 
+            - Piezoelectric Actuator, Ultra-precision Control, Carbon material.
+        - title: Core courses
+          contents: 
+            - Introduction to Modern Control Theories and Methods (4.0), Advanced Numerical Analysis, Mechatronic Intelligent Control Engineering (4.0), Modern Mechatronics System (4.0), etc.
+        - title: Scholarship
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Outstanding Postgraduate Award of Tsinghua University, Minor Award, 2022.
 
-- title: Experience
+    - title: Bachelor in Mechanical Engineering
+      institution: Hunan University, Changsha, China
+      year: 2027-2021
+      description:
+        - U.S. News Global Ranking 168
+        - State Key Laboratory of Advanced Design, College of Mechanical & Vehicle Engineering 
+        - GPA 3.33/4.0
+        - title: Research Field
+          contents: 
+            - Piezoelectric Actuator, Ultra-precision Control, Carbon material. 
+        - title: Scholarship
+          contents:
+            - Ministry of Education scholarship Major Award - 2020, Minor Award - 2018, 2019.
+            - Outstanding Undergraduate Students Award of Hunan University Minor Award, 2020.
+            - Individual outstanding (Research) scholarship of Human University, 2018
+        - title: Honors
+          contents: 
+            - Outstanding Graduation Design of Hunan University (Top 1%).
+            - Outstanding Graduates of Hunan University, 2021.
+            - Outstanding Volunteer of Social Practice, National Cooperation Office.
+
+- title: Research and Professional Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
