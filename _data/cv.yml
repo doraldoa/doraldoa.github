@@ -1,12 +1,12 @@
-- title: Curriculum Vitae of Chih-Chin
+- title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Chih-Chin Liu
+      value: Chih-Chin (Zhijin) Liu
     - name: Email
       value: lzj21@mails.tsinghua.edu.cn
     - name: Address
-      value: Lee Shau Kee Science and Technology Building, Tsinghua University, Beijing, China.
+      value: Lee Shau Kee Science and Technology Building, Tsinghua University.
 
 - title: Education
   type: time_table
@@ -15,35 +15,34 @@
       institution: Tsinghua University, Beijing, China
       year: 2021-Now
       description:
-        - The top 2 University in China (U.S. News Global Ranking 23)
-        - Lab of Precision Equipment and Control, Department of Mechanical Engineering
+        - U.S. News Global <b>Ranking 23</b>
+        - Lab of Precision Equipment and Control, DME
         - GPA 3.73/4.0
-        - title: Research Field
+        - title: <b>Research Field:</b>
           contents: 
             - Piezoelectric Actuator, Ultra-precision Control, Carbon material.
-        - title: Core courses
+        - title: <b>Core courses:</b>
           contents: 
             - Introduction to Modern Control Theories and Methods (4.0), Advanced Numerical Analysis, Mechatronic Intelligent Control Engineering (4.0), Modern Mechatronics System (4.0), etc.
-        - title: Scholarship
+        - title: <b>Scholarship:</b>
           contents:
-            - Outstanding Postgraduate Award of Tsinghua University, Minor Award, 2022.
+            - Outstanding Postgraduate Award of Tsinghua University, Minor Award.
 
     - title: Bachelor in Mechanical Engineering
       institution: Hunan University, Changsha, China
       year: 2027-2021
       description:
-        - U.S. News Global Ranking 168
-        - State Key Laboratory of Advanced Design, College of Mechanical & Vehicle Engineering 
-        - GPA 3.33/4.0
-        - title: Research Field
+        - U.S. News Global <b>Ranking 168</b>
+        - State Key Laboratory of Advanced Design and Maunfacturing for Vehicle
+        - title: <b>Research Field:</b>
           contents: 
-            - Piezoelectric Actuator, Ultra-precision Control, Carbon material. 
-        - title: Scholarship
+            - Flexible Sensor, Fault Diagnosis, Deep learning. 
+        - title: <b>Scholarship:</b>
           contents:
             - Ministry of Education scholarship Major Award - 2020, Minor Award - 2018, 2019.
             - Outstanding Undergraduate Students Award of Hunan University Minor Award, 2020.
             - Individual outstanding (Research) scholarship of Human University, 2018
-        - title: Honors
+        - title: <b>Honors:</b>
           contents: 
             - Outstanding Graduation Design of Hunan University (Top 1%).
             - Outstanding Graduates of Hunan University, 2021.
@@ -52,67 +51,101 @@
 - title: Research and Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research on Piezoelectric Nano-Precision Control
+      institution: Tsinghua University, Beijing
+      year: 2021 -now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Proposed a novel nonlinearity compensation scheme that exhibits a comparative performance to the iterative learning control (ILC) without abundant time consuming off-line iterations or complex hysteresis model while augmenting the robustness to trajectory variations.
+        - A two-axis motion platform was built to further optimize the algorithm by taking the contour control error and attempting to further extend it to Atomic Force Microscopy (AFM).
+
+    - title: An Ultrafast Low-Grade Coal Upgrade Approach
+      institution: Tsinghua University, Beijing
+      year: 2021-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Proposed an ultrafast process to upgrade a low-grade coal - lignite into conductive porous material and successfully applied to solar-driven water treatment.
+        - The process eliminates the complex pre-activation processes in conventional approaches. The whole process takes only 30 s with an ultrafast heating rate exceeding 9000℃/min and a maximum temperature over 1500℃.
+        - The final product exhibits remarkable properties. Under 1 sun, its application to solar-driven water treatment brings a significant increase (~8 times) in water evaporation rate than wateritself, while exhibiting over 98.2% removal rate of contaminants.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: A Small Parallel Cable-Driven Robot Based on TCPF
+      institution: Tsinghua University, Beijing
+      year: 2021-2022
       description:
+        - Led three graduate students to complete the design and manufacturing of Twisted and Coiled Polymel Fiber (TCPF), a type of artificial muscle made by fish line
+        - Combined it with small parallel robots to achieve the task such as handling, assembling and positioning. One paper has been published.
+        - title: <b>The merits could be summarized as follows:</b>
+          content:
+            - <b>Large stroke:</b> the deformation can reach to 35% of the length itself,
+            - <b>Large load:</b> the maximum load can reach 50g without affecting the accuracy,
+            - <b>High energy density:</b> only weighs 0.5g, but can afford more than 50g.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: State Key Laboratory of Advanced Design and Manufactur
+      institution: Hunan University, Changsha
+      year: 2020-2021
+      description:
+        - The combination of CNN and attention mechanism is used to imporve the accuracy of segmentation of pigmented tumor images (The main work is data preprocessing and model porting)
+        - Under the casein sodium salt and polydopamine hydrogel system (SC-PDA), the material conductivity was improved by doping carbon black (GF≈10), and then has been applied to the human motion signals acquisition and robot remote control (Graduation Design).
 
-- title: Open Source Projects
+    - title: Mechanical Fault Diagnosis Laboratory
+      institution: Hunan University, Changsha
+      year: 2019-2020
+      description:
+      - Conducted extensive research on fault diagnosis of rotating machinery, specializing in Wavelet Transform and Empirical Mode Decomposition (EMD).
+      - Acquired basic training in paper writing and research methodologies, demonstrating proficiency in experimental design and data analysis.
+
+    - title: Geek Space Innovation Center, Department of Industrial Training
+      institution: Hunan University, Changsha
+      year: 2018-2020
+      description:
+      - Led a team of five students from diverse backgrounds in mechanical, electronic, and information engineering to successfully apply for and complete a two-year national student innovation project Automatic Ash Cleaning Bird Pecking Moxibustion.
+      - Secured a total funding of $5,000 for the project and Published 2 patents.
+
+- title: Activities
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Rural Revitalization Workstation, Detachment Leader. 
+      institution: Xiangxiang, Hunan
+      year: July 2022
+      description:
+        - Led 20 members from 9 different universities to conduct field research in rural Hunan for 10 days.
+        - Produced 18 architectural renderings, 9 creative designs, 3 research works, 2 academic reports…
+        - Published 10 news and 2 videos, covered by social media 8 times with more than 20,000 reads.
+    
+    - title: Candidates for the Inheritors of Intangible Cultural Heritage
+      institution: Xiangtan, Hunan
+      year: 2021-
+      description:
+        - Have been learning Face-changing in Sichuan Opera for more than one year.
+    
+    - title: Class Leader at Hunan University
+      institution: Changsha, China
+      year: 2019-2021
+      description:
+        - Elected as the class leader serving 30 students at Hunan University.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Half Marathon Finisher
+      institution:  Beijing, China
+      year: Apr 2023
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Pratical skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Languages:</b>&emsp;&emsp; English(C1), Chinese(Native)
+    - <b>Coding:</b>&emsp;&emsp;&emsp;&emsp; Python, C++, LaTeX
+    - <b>Software:</b>&emsp;&emsp;&emsp; MATLAB, Simulink, SolidWorks, Altium Designer
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
