@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Nano-Precision Control
+description: Research on Piezoelectric Nano-Precision Control
+img: assets/img/PEA/Fig2.png
 importance: 1
-category: work
+category: Projects
 ---
 
 Every project has a beautiful feature showcase page.

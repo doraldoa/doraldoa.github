@@ -2,9 +2,9 @@
 layout: page
 title: project 4
 description: another without an image
-img:
+img: assets/img/PEA/Fig2.png
 importance: 3
-category: fun
+category: Activities
 ---
 
 Every project has a beautiful feature showcase page.
