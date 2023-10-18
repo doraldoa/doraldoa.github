@@ -5,99 +5,105 @@
       value: Chih-Chin (Zhijin) Liu
     - name: Email
       value: lzj21@mails.tsinghua.edu.cn
-    - name: Address
+    - name: Contact Address
       value: Lee Shau Kee Science and Technology Building, Tsinghua University.
 
 - title: Education
   type: time_table
   contents:
-    - title: Master in science on mechanical engineering
+    - title: Master of Mechanical Engineering
       institution: Tsinghua University, Beijing, China
-      year: 2021-Now
+      year: 2021-2024
       description:
         - U.S. News Global <b>Ranking 23</b>
-        - Lab of Precision Equipment and Control, DME
+        - Lab of Precision Equipment and Control, Department of Mechanical Engineering
         - GPA 3.73/4.0
+        - title: <b>Core courses:</b>
+          contents: 
+            - Modern Control Theories and Methods (4.0), Mechatronic Intelligent Control Engineering (4.0), Modern Mechatronics System (4.0), etc.
         - title: <b>Research Field:</b>
           contents: 
             - Piezoelectric Actuator, Ultra-precision Control, Carbon material.
-        - title: <b>Core courses:</b>
-          contents: 
-            - Introduction to Modern Control Theories and Methods (4.0), Advanced Numerical Analysis, Mechatronic Intelligent Control Engineering (4.0), Modern Mechatronics System (4.0), etc.
         - title: <b>Scholarship:</b>
           contents:
-            - Outstanding Postgraduate Award of Tsinghua University, Minor Award.
+            - Outstanding Postgraduate Award of Tsinghua University, Minor Award, 2022.
+            - Outstanding Postgraduate Award of Tsinghua University, Grand Prize Candidate (Highest Honor for all Students, 10 Persons in the school every year), 2023.
+            - Outstanding Taiwan Graduate students Award of Ministry, Grand Prize Candidate (Highest Honor for Taiwan Students, 4 Persons in the school every year), 2023.
 
-    - title: Bachelor in Mechanical Engineering
+    - title: Bachelor of Mechanical Engineering
       institution: Hunan University, Changsha, China
-      year: 2027-2021
+      year: 2017-2021
       description:
         - U.S. News Global <b>Ranking 168</b>
-        - State Key Laboratory of Advanced Design and Maunfacturing for Vehicle
+        - State Key Laboratory of Advanced Design and Maunfacturing Technology for Vehicle, College of Mechanical & Vehicle Engineering.
         - title: <b>Research Field:</b>
           contents: 
             - Flexible Sensor, Fault Diagnosis, Deep learning. 
         - title: <b>Scholarship:</b>
           contents:
-            - Ministry of Education scholarship Major Award - 2020, Minor Award - 2018, 2019.
+            - Ministry of Education Scholarship Major Award (2020), Minor Award (2018, 2019).
             - Outstanding Undergraduate Students Award of Hunan University Minor Award, 2020.
-            - Individual outstanding (Research) scholarship of Human University, 2018
+            - Individual Outstanding (Research) Scholarship of Human University, 2018
         - title: <b>Honors:</b>
           contents: 
             - Outstanding Graduation Design of Hunan University (Top 1%).
             - Outstanding Graduates of Hunan University, 2021.
             - Outstanding Volunteer of Social Practice, National Cooperation Office.
 
-- title: Research and Professional Experience
+- title: Research and Projects
   type: time_table
   contents:
     - title: Research on Piezoelectric Nano-Precision Control
       institution: Tsinghua University, Beijing
-      year: 2021 -now
+      year: 2022-now
       description:
-        - Proposed a novel nonlinearity compensation scheme that exhibits a comparative performance to the iterative learning control (ILC) without abundant time consuming off-line iterations or complex hysteresis model while augmenting the robustness to trajectory variations.
-        - A two-axis motion platform was built to further optimize the algorithm by taking the contour control error and attempting to further extend it to Atomic Force Microscopy (AFM).
+        - Proposed a novel nonlinearity compensation scheme that exhibits a comparative performance
+          to the iterative learning control (ILC) without abundant time-consuming off-line iterations or
+          complex hysteresis modeling while enhancing the robustness to trajectory variations.
+        - Two-axis motion platform was built to further optimize the contour control error while attempting further extend related algorithm to Atomic Force Microscopy (AFM)..
 
-    - title: An Ultrafast Low-Grade Coal Upgrade Approach
+    - title: Ultrafast Low-Grade Coal Upgrade 
       institution: Tsinghua University, Beijing
-      year: 2021-2022
+      year: 2022-2023
       description:
-        - Proposed an ultrafast process to upgrade a low-grade coal - lignite into conductive porous material and successfully applied to solar-driven water treatment.
-        - The process eliminates the complex pre-activation processes in conventional approaches. The whole process takes only 30 s with an ultrafast heating rate exceeding 9000℃/min and a maximum temperature over 1500℃.
-        - The final product exhibits remarkable properties. Under 1 sun, its application to solar-driven water treatment brings a significant increase (~8 times) in water evaporation rate than wateritself, while exhibiting over 98.2% removal rate of contaminants.
+        - Proposed an ultrafast and environmental-friendly approach for upgrading low-grade coal into conductive nanoporous material and applying it to solar-driven water treatment.
+        - The approach eliminates complex pre-activation processes, which takes only 30 s, while the ultrafast heating rate exceeds 9000 ℃/min, with a maximum temperature over 1500 ℃.
+        - Under 1 sun, its final product brings a significant increase (∼8 times) in water evaporation rate than pure water, while exhibiting over 98.2% removal rate of contaminants.
 
     - title: A Small Parallel Cable-Driven Robot Based on TCPF
       institution: Tsinghua University, Beijing
       year: 2021-2022
       description:
-        - Led three graduate students to complete the design and manufacturing of Twisted and Coiled Polymel Fiber (TCPF), a type of artificial muscle made by fish line
-        - Combined it with small parallel robots to achieve the task such as handling, assembling and positioning. One paper has been published.
-        - title: <b>The merits could be summarized as follows:</b>
-          content:
-            - <b>Large stroke:</b> the deformation can reach to 35% of the length itself,
-            - <b>Large load:</b> the maximum load can reach 50g without affecting the accuracy,
-            - <b>High energy density:</b> only weighs 0.5g, but can afford more than 50g.
+        - Led two graduate students through the design and fabrication of Twisted and Coiled Polymel Fiber (TCPF), a type of artificial muscle made from fish line.
+        - A Small Parallel Cable-Driven Robot based on TCPF with an overall dimension of 45 × 50 × 90 mm<sup>3</sup> and a motion space of 20 × 23 × 16 mm<sup>3</sup>, has been controlled by Matlab and dSPACE.
+        - This Robot was driven by current and can perform precise tasks, such as micro assembling. The related paper was nominated as Best Paper Finalist in Control by <i><b>IEEE RCAR 2022</b></i>.
 
-    - title: State Key Laboratory of Advanced Design and Manufactur
+- title: Undergraduate Experiences
+  type: time_table
+  contents:
+
+    - title: State Key Laboratory of Advanced Design and Manufacturing Technology for Vehicle
       institution: Hunan University, Changsha
       year: 2020-2021
       description:
-        - The combination of CNN and attention mechanism is used to imporve the accuracy of segmentation of pigmented tumor images (The main work is data preprocessing and model porting)
-        - Under the casein sodium salt and polydopamine hydrogel system (SC-PDA), the material conductivity was improved by doping carbon black (GF≈10), and then has been applied to the human motion signals acquisition and robot remote control (Graduation Design).
+        - The combination of CNN and attention mechanism has been used to imporve the accuracy of segmentation of pigmented tumor images (Main work： Data Processing and Model Porting)
+        - Under the casein sodium salt and polydopamine hydrogel system (SC-PDA), the material conductivity has been improved by doping carbon black (GF≈10), and then has been applied to the human motion signals acquisition and robot remote control (Graduation Design).
 
-    - title: Mechanical Fault Diagnosis Laboratory
+
+    - title: Mechanical Fault Diagnosis Laboratory, College of Mechanical and Vehicle
       institution: Hunan University, Changsha
       year: 2019-2020
       description:
       - Conducted extensive research on fault diagnosis of rotating machinery, specializing in Wavelet Transform and Empirical Mode Decomposition (EMD).
       - Acquired basic training in paper writing and research methodologies, demonstrating proficiency in experimental design and data analysis.
 
+
     - title: Geek Space Innovation Center, Department of Industrial Training
       institution: Hunan University, Changsha
       year: 2018-2020
       description:
-      - Led a team of five students from diverse backgrounds in mechanical, electronic, and information engineering to successfully apply for and complete a two-year national student innovation project Automatic Ash Cleaning Bird Pecking Moxibustion.
-      - Secured a total funding of $5,000 for the project and Published 2 patents.
+      - Led a team of five students from diverse backgrounds in mechanical, electronic, and information engineering to successfully apply for and complete a two-year National Student Innovation Project：<i>“Automatic Ash Cleaning Bird Pecking Moxibustion”</i>.
+      - Secured a total funding of $5,000 for the project and published 2 patents.
 
 - title: Activities
   type: time_table
@@ -106,21 +112,16 @@
       institution: Xiangxiang, Hunan
       year: July 2022
       description:
-        - Led 20 members from 9 different universities to conduct field research in rural Hunan for 10 days.
-        - Produced 18 architectural renderings, 9 creative designs, 3 research works, 2 academic reports…
-        - Published 10 news and 2 videos, covered by social media 8 times with more than 20,000 reads.
+        - Led 19 members from 10 different universities to conduct social and field research in rural Hunan.
+        - Produced 18 architectural renderings, 9 creative designs, 3 research works…. Related outcomes are already in actual production and Xiangxiang became an important practice base of Tsinghua University
     
-    - title: Candidates for the Inheritors of Intangible Cultural Heritage
+    - title: Have been learning Face-changing for more than two years
       institution: Xiangtan, Hunan
-      year: 2021-
-      description:
-        - Have been learning Face-changing in Sichuan Opera for more than one year.
+      year: 2021-Now
     
     - title: Class Leader at Hunan University
       institution: Changsha, China
       year: 2019-2021
-      description:
-        - Elected as the class leader serving 30 students at Hunan University.
 
     - title: Half Marathon Finisher
       institution:  Beijing, China
@@ -130,7 +131,7 @@
   type: list
   contents:
     - <b>Languages:</b>&emsp;&emsp; English(C1), Chinese(Native)
-    - <b>Coding:</b>&emsp;&emsp;&emsp;&emsp; Python, C++, LaTeX
+    - <b>Coding:</b>&emsp;&emsp;&emsp;&emsp; Python, C, LaTeX
     - <b>Software:</b>&emsp;&emsp;&emsp; MATLAB, Simulink, SolidWorks, Altium Designer
 
 # - title: Academic Interests
