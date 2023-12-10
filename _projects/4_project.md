@@ -14,6 +14,4 @@ category: Activities
     </div>
 </div>
 
-<p style="text-align:justify"> After the tireless efforts of 19 team members from 10 different universities across from the whole country, <strong> related outcomes have been already put into the actual production.</strong>
-Nowadays, Xiangxiang has became a important social pratical base of Tsinghua University. Our initial research & practice achieved successful results. </p>
-
+<p style="text-align:justify"> After the tireless efforts of 19 students from 10 different universities across from the whole country, <strong>we produced 18 architectural renderings, 9 creative designs, and 3 research works… for the first practice. More importantly, the outcomes of this endeavor have already found practical applications, showcasing my ability to translate ideas into real-world impact. </strong> Nowadays, Xiangxiang has became a important social pratical base of Tsinghua University. Our initial research & practice achieved successful results. </p>

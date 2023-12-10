@@ -20,7 +20,7 @@ Hello, everyone! My name is Chih-Chin Liu, I am hailing from <b>Taiwan, China</b
 </p>
 
 <p style="text-align:justify">
-Currently, I am pursuing my master's degree in the Department of Mechanical Engineering, Tsinghua University, specializing in <strong>Precision Control</strong>. I am excitedly <strong>seeking a suitable Ph.D. position</strong> that aligns with my capabilities and aspirations. For a more detailed glimpse, feel free to explore <a href="CV">My CV</a> and <a href="Projects">My Research Projects and Social Activities</a>.
+Currently, I am pursuing my master's degree in the Department of Mechanical Engineering, Tsinghua University, specializing in <strong>Precision Control</strong>. I am excitedly <strong>seeking a suitable Ph.D. position</strong> that aligns with my capabilities and aspirations. For a more detailed glimpse, feel free to explore <a href="https://chihchin-liu.com/cv/">My CV</a> and <a href="https://chihchin-liu.com/projects/">My Research Projects and Social Activities</a>.
 </p>
 
 <p style="text-align:justify">
